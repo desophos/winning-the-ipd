@@ -1,8 +1,7 @@
 '''
 Created on Mar 8, 2013
-
-@author: Daniel
 '''
+
 NUM_POPULATIONS = 2
 NUM_INDIVIDUALS = 10
 PRUNING_NUM = 5

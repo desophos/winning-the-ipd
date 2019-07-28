@@ -1,9 +1,9 @@
 '''
 Created on Mar 8, 2013
-
-@author: Daniel
 '''
+
 from globals import NUM_INDIVIDUALS, NUM_INITIAL_STATES, DEFAULT_MEMORY
+
 
 class Environment:
     def generate_population(self, num_states=NUM_INITIAL_STATES, memory=DEFAULT_MEMORY):
